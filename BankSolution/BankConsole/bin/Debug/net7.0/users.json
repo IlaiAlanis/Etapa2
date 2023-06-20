@@ -1,0 +1,42 @@
+[
+  {
+    "Department": "IT",
+    "ID": 2,
+    "Name": "juanito",
+    "Email": "juanis@gmail.com",
+    "Balance": 420.0,
+    "RegisterDate": "2023-06-20T08:40:02.537625-06:00"
+  },
+  {
+    "TaxRegime": "M",
+    "ID": 3,
+    "Name": "Ilai Alanis",
+    "Email": "alaanisilai123@gmail.com",
+    "Balance": 51.0,
+    "RegisterDate": "2023-06-20T08:42:23.1131153-06:00"
+  },
+  {
+    "Department": "d",
+    "ID": 6,
+    "Name": "kk",
+    "Email": "@gmail.com",
+    "Balance": 400.0,
+    "RegisterDate": "2023-06-20T10:43:23.657501-06:00"
+  },
+  {
+    "Department": "",
+    "ID": 7,
+    "Name": "Ilai",
+    "Email": "@gmail.com",
+    "Balance": 400.0,
+    "RegisterDate": "2023-06-20T10:44:09.6250804-06:00"
+  },
+  {
+    "Department": "IT",
+    "ID": 1,
+    "Name": "Joselito",
+    "Email": "joselito@gmail.com",
+    "Balance": 420.00,
+    "RegisterDate": "2023-06-20T11:09:07.3159366-06:00"
+  }
+]
